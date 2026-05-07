@@ -29,7 +29,7 @@ The analysis was performed using **Jamovi** following these steps:
 * **Bartlett's Test:** $\chi^2(136) = 2094.2, p < .001$, confirming the matrix is not identity.
 
 ### 2. Factor Structure
-A **2-factor solution** was determined through Parallel Analysis:
+A **2 factor solution** was determined through Parallel Analysis:
 * **Factor 1:** Higher loadings on items 11, 1, 5, and 9 (reverse).
 * **Factor 2:** Higher loadings on items 6, 4 (reverse), 10 (reverse), and 8.
 * **Note on Inversion:** Items such as **9, 7, 3** in Factor 1 and **4, 10, 12** in Factor 2 show negative loadings, indicating they are reverse coded items that measure the opposite pole of the factor.
