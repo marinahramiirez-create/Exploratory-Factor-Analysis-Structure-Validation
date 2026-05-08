@@ -1,0 +1,26 @@
+{
+  "project_name": "Factorial Structure and Construct Validity - Unit 5",
+  "instrument_details": {
+    "total_items": 17,
+    "scale_type": "Likert"
+  },
+  "adequacy_tests": {
+    "kmo_index": 0.868,
+    "bartlett_test": {
+      "chi_square": 2094.26,
+      "df": 136,
+      "significance": 0.000
+    },
+    "interpretation": "Meritorious sample adequacy"
+  },
+  "factor_analysis": {
+    "extraction_method": "Principal Axis Factoring",
+    "rotation_method": "Oblimin",
+    "factors_identified": 2,
+    "key_loadings": {
+      "factor_1_top_items": ["item11", "item1", "item5"],
+      "factor_2_top_items": ["item6", "item8", "item2"],
+      "reverse_coded_items": ["item9", "item7", "item3", "item4", "item10", "item12"]
+    }
+  }
+}
